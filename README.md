@@ -1,23 +1,68 @@
-<h1 align="center">Hi 👋, I'm Ananya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# Hi there, I'm Ananya - aka [ananya_y][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=github4ananya&label=Profile%20views&color=0e75b6&style=flat" alt="github4ananya" /> </p>
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-- 📫 How to reach me **ananya140604@gmail.com**
+## I'm a Computer Science and Engineering Student  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ananya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ananya" height="30" width="40" /></a>
-<a href="https://instagram.com/ananya__1406" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ananya__1406" height="30" width="40" /></a>
-</p>
+- 📚 I’m currently learning data structures and algorithm. 😅
+- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+- ⚡ Fun fact: I love to Travelling.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=github4ananya&show_icons=true&locale=en&layout=compact" alt="github4ananya" /></p>
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=github4ananya&show_icons=true&locale=en" alt="github4ananya" /></p>
+### Spotify Playing 🎧
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=github4ananya&" alt="github4ananya" /></p>
+[![Spotify](https://open.spotify.com/track/3taCbWWTilb7eNMsAzOBq4?si=vO6_olkFTyyUvrKphasg5Q)](https://open.spotify.com/user/11153360645)
 
-S
+---
+
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
+### Contact with me 📝
+
+
+[<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][website]
+[<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
+[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
+
+<br />
+
+---
+
+### Languages and Tools 🛠 
+
+
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
+![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
+<br/>
+
+---
+
+<br/>
+
+  <h2 align="center"> Github Statistics 📈 </h2>
+  
+  <div align="center"> 
+     <a href="">
+      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+    </a>
+    <a href="">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
+    </a>
+</div
+  
+<br/>
+
+---
+
+ ### ⭐️ From [Ananya](https://github.com/Github4ananya) ### 
+ 
+---
+
+[instagram]: https://www.instagram.com/ananya__1406
+[linkedin]: https://www.linkedin.com/in/ananya-aaa899275
