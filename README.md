@@ -4,7 +4,7 @@
 
 ## I'm a Computer Science and Engineering Student  
 
-- 📚 I’m currently studying in 2nd year . 😅
+- 📚 I’m currently studying in 2nd year .😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to Travel.
 
