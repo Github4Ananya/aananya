@@ -1,12 +1,23 @@
-# Hi there, I'm Ananya - aka [ananya_y][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Ananya - aka [ananya_k][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a Computer Science and Engineering Student  
-
-- 📚 I’m currently studying in 2nd year .😅
+Hey there!
+- 📚 I’m currently studying in 2nd year . 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
 - ⚡ Fun fact: I love to Travel.
+
+
+
+I'm a CSE student at ITER College, diving into the world of coding and technology. 
+With a knack for problem-solving and an insatiable curiosity, I'm on a journey to learn about new things 
+and When I'm not in front of a screen, I love hanging out with friends, exploring the latest memes, 
+and staying up-to-date with the ever-evolving tech trends. Let's connect and geek out over all thing! 🚀👩‍💻
+
+
+
+
 
 ---
 
