@@ -1,12 +1,12 @@
-# Hi there, I'm Ananya - aka [ananya_y][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, I'm Ananya - aka [Bgstatic][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ## I'm a Computer Science and Engineering Student  
 
-- 📚 I’m currently learning data structures and algorithm. 😅
+- 📚 I’m currently studying in 2nd year . 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to Travelling.
+- ⚡ Fun fact: I love to Travel.
 
 ---
 
@@ -14,7 +14,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://open.spotify.com/track/3taCbWWTilb7eNMsAzOBq4?si=vO6_olkFTyyUvrKphasg5Q)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://open.spotify.com/track/3taCbWWTilb7eNMsAzOBq4?si=vO6_olkFTyyUvrKphasg5Q)](https://open.spotify.com/track/3taCbWWTilb7eNMsAzOBq4?si=vO6_olkFTyyUvrKphasg5Q)
 
 ---
 
@@ -35,8 +35,9 @@
 
 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
+![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
 <br/>
