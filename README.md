@@ -1,4 +1,4 @@
-# Hi there, I'm Ananya - aka [ananya_k][website] <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+# Hi there, thanks for stopping by, this is **ANANYA**.  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
@@ -14,7 +14,6 @@ I'm a CSE student at ITER College, diving into the world of coding and technolog
 With a knack for problem-solving and an insatiable curiosity, I'm on a journey to learn about new things 
 and When I'm not in front of a screen, I love hanging out with friends, exploring the latest memes, 
 and staying up-to-date with the ever-evolving tech trends. Let's connect and geek out over all thing! 🚀👩‍💻
-![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
 
 Hi there, thanks for stopping by, this is **ANANYA**.
 
