@@ -14,7 +14,38 @@ I'm a CSE student at ITER College, diving into the world of coding and technolog
 With a knack for problem-solving and an insatiable curiosity, I'm on a journey to learn about new things 
 and When I'm not in front of a screen, I love hanging out with friends, exploring the latest memes, 
 and staying up-to-date with the ever-evolving tech trends. Let's connect and geek out over all thing! 🚀👩‍💻
+![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
 
+Hi there, thanks for stopping by, this is **ANANYA**.
+
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+
+```javascript
+const charles = {
+    pronouns: "She" | "Her",
+    askMeAbout: ["web dev", "tech"],
+    technologies: {
+        frontEnd: {
+             language:["java","javascript"]
+            css: ["bootstrap", "jquery","html"]
+        },
+      
+};
+```
+
+![iAnanya's github stats](https://github-readme-stats.vercel.app/api?username=iCharlesZ&hide=contribs,prs&count_private=true&show_icons=true)
+
+
+<a href="https://github.com/Github4Ananya">
+    <img src="5264781.jpg" />
+</a>
+<a href="https://www.linkedin.com/in/ananya-aaa899275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a>
+
+![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
+
+---
+
+⭐️ From [@aananya](https://github.com/Github4Ananya)
 
 
 
