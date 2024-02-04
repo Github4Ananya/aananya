@@ -1,15 +1,16 @@
-  <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
+  
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+Hey there!
 
 ## I'm a Computer Science and Engineering Student  
-Hey there!
-- 📚 I’m currently studying in 2nd year(4th Semester) . 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I love to Travel.
-- 🔭 I’m currently working on **Rate Limiter**
-- 👯 I’m looking to collaborate on **AI related projects**
-- 📫 How to reach me **ananya140604@gmail.com**
+
+-  I’m currently studying in 2nd year(4th Semester) . 
+-  Future Goals: Learn more technologies - Never stop creating new ideas.
+-  Fun fact: I love to Travel.
+-  I’m currently working on **Rate Limiter**
+-  I’m looking to collaborate on **AI related projects**
+-  How to reach me **ananya140604@gmail.com**
 
 
 I'm a CSE student at ITER College, diving into the world of coding and technology. 
@@ -49,7 +50,7 @@ const ananya = {
 
 
 
-### Contact with me 📝
+### Contact with me 
 
 
 <img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />
