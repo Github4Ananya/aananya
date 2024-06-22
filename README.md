@@ -5,7 +5,7 @@ Hey there!
 
 ## I'm a Computer Science and Engineering Student  
 
--  I’m currently studying in 2nd year(4th Semester) . 
+-  I’m currently studying in 3rd year(5th Semester) . 
 -  Future Goals: Learn more technologies - Never stop creating new ideas.
 -  Fun fact: I love to Travel.
 -  I’m currently working on **Rate Limiter**
